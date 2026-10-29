@@ -1,8 +1,10 @@
 # DISGO
 
-DISGO is Discord for gamers in Iran — lower ping, one click, and you are in.
+DISGO is a connection tool for people in Iran who want Discord to work well — lower ping, stable voice, one click.
 
-It only handles Discord (chat, voice, media). Your games and other apps stay on your normal connection.
+It only routes Discord traffic. Games and everything else keep using your normal connection.
+
+DISGO is not affiliated with Discord.
 
 ![DISGO](screenshot.png)
 
